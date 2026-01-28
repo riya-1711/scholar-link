@@ -1,6 +1,6 @@
 # 🧰 ScholarLink — FastAPI Backend
 
-## Overview
+## Overview:
 
 Academic writing is filled with factual claims that are **uncited**, **weakly cited**, or **improperly supported**.
 Verifying these manually is slow, subjective, and error-prone.
