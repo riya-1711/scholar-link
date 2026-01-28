@@ -5,7 +5,7 @@
 Academic writing is filled with factual claims that are **uncited**, **weakly cited**, or **improperly supported**.
 Verifying these manually is slow, subjective, and error-prone.
 
-**ScholarLink AI** automates that process. It extracts factual claims from academic papers, classifies them by citation strength, and verifies whether those claims are supported by the cited sources using **semantic similarity** and **LLM-based reasoning**.
+**ScholarLink** automates that process. It extracts factual claims from academic papers, classifies them by citation strength, and verifies whether those claims are supported by the cited sources using **semantic similarity** and **LLM-based reasoning**.
 
 This backend is designed to be **private, stateless, and streaming-first** — enabling real-time feedback without storing user data or documents beyond a short runtime window.
 
