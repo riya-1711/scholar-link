@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "scholar-link-backend"
+version = "0.1.0"
+description = "ScholarLink backend"
+authors = ["Riya Bangia <riyabangia1711@gmail.com>"]
+readme = "README.md"
+package-mode=false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.118.0"
+httpx = "^0.28.1"
+uvicorn = "^0.37.0"
+pydantic = "^2.11.10"
+python-multipart = "^0.0.20"
+pydantic-settings = "^2.11.0"
+black = "^25.9.0"
+python-dotenv = "^1.1.1"
+redis = "^6.4.0"
+fastapi-limiter = "^0.1.6"
+pymupdf = "^1.26.4"
+numpy = "^2.3.3"
+sentence-transformers = "^5.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
